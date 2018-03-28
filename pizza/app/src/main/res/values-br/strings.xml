@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Pizzeria</string>
+    <string name="pannaCotta">Pate</string>
+    <string name="Napolitaine">Napolitaine</string>
+    <string name="Royale">Royale</string>
+    <string name="Quatre_Fromage">Quatre Fromage</string>
+    <string name="Montagnarde">Montagnarde</string>
+    <string name="Raclette">Raclette</string>
+    <string name="Hawai">Hawai</string>
+    <string name="Tiramisu">Tiramisu</string>
+    <string name="TableNum">Numero de table:</string>
+    <string name="Valider">Valider</string>
+    <string name="Mozzarella">Mozzarella</string>
+    <string name="Gorgonzola">Gorgonzola</string>
+    <string name="Anchois">Anchois</string>
+    <string name="Capres">Capres</string>
+    <string name="Olives">Olives</string>
+    <string name="Artichauts">Artichauts</string>
+    <string name="JambonCru">JambonCru</string>
+    <string name="JambonCuit">JambonCuit</string>
+    <string name="personnalisee">Pizza Personnalisée</string>
+    <string name="COULEUR">Couleur</string>
+    <string name="Setting">Paramètre</string>
+</resources>

@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Office Pizza</string>
+    <string name="pannaCotta">Pasta</string>
+    <string name="Napolitaine">Napolitaine</string>
+    <string name="Royale">Royale</string>
+    <string name="Quatre_Fromage">Quatre Fromage</string>
+    <string name="Montagnarde">Montagnarde</string>
+    <string name="Raclette">Raclette</string>
+    <string name="Hawai">Hawai</string>
+    <string name="Tiramisu">Tiramisu</string>
+    <string name="TableNum">Table Number</string>
+    <string name="Valider">Validate</string>
+    <string name="Mozzarella">Mozzarella</string>
+    <string name="Gorgonzola">Gorgonzola</string>
+    <string name="Anchois">Anchovy</string>
+    <string name="Capres">Capers</string>
+    <string name="Olives">Olives</string>
+    <string name="Artichauts">Artichokes</string>
+    <string name="JambonCru">Ham</string>
+    <string name="JambonCuit">Cooked Ham</string>
+    <string name="personnalisee">Custom Pizza</string>
+    <string name="COULEUR">Color</string>
+    <string name="Setting">Setting</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+</resources>

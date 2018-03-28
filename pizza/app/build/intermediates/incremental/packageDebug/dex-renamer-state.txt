@@ -1,0 +1,7 @@
+#Tue Mar 27 19:44:32 CEST 2018
+base.0=C\:\\Users\\henri.aycard\\Desktop\\S4\\Android\\pizza\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_24e4fd8a861514b689bc892b501c8d25e27788e9
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=C\:\\Users\\henri.aycard\\Desktop\\S4\\Android\\pizza\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_c5e1281301610108263e002eb976df0f064e583a\\classes.dex
+base.1=C\:\\Users\\henri.aycard\\Desktop\\S4\\Android\\pizza\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_c5e1281301610108263e002eb976df0f064e583a
+file.0=C\:\\Users\\henri.aycard\\Desktop\\S4\\Android\\pizza\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_24e4fd8a861514b689bc892b501c8d25e27788e9\\classes.dex

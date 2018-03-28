@@ -1,0 +1,4 @@
+#Tue Mar 27 11:49:59 CEST 2018
+base.0=C\:\\Users\\henri.aycard\\Desktop\\S4\\Android\\pizza\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\5\\slice_9
+renamed.0=classes.dex
+file.0=C\:\\Users\\henri.aycard\\Desktop\\S4\\Android\\pizza\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\5\\slice_9\\classes.dex

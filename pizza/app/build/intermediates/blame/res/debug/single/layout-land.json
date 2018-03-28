@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "C:\\Users\\henri.aycard\\Desktop\\S4\\Android\\pizza\\app\\build\\intermediates\\res\\merged\\debug\\layout-land\\activity_table.xml",
+        "source": "C:\\Users\\henri.aycard\\Desktop\\S4\\Android\\pizza\\app\\src\\main\\res\\layout-land\\activity_table.xml"
+    },
+    {
+        "merged": "C:\\Users\\henri.aycard\\Desktop\\S4\\Android\\pizza\\app\\build\\intermediates\\res\\merged\\debug\\layout-land\\fragment_ingredient.xml",
+        "source": "C:\\Users\\henri.aycard\\Desktop\\S4\\Android\\pizza\\app\\src\\main\\res\\layout-land\\fragment_ingredient.xml"
+    },
+    {
+        "merged": "C:\\Users\\henri.aycard\\Desktop\\S4\\Android\\pizza\\app\\build\\intermediates\\res\\merged\\debug\\layout-land\\activity_main.xml",
+        "source": "C:\\Users\\henri.aycard\\Desktop\\S4\\Android\\pizza\\app\\src\\main\\res\\layout-land\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\henri.aycard\\Desktop\\S4\\Android\\pizza\\app\\build\\intermediates\\res\\merged\\debug\\layout-land\\fragment_commande.xml",
+        "source": "C:\\Users\\henri.aycard\\Desktop\\S4\\Android\\pizza\\app\\src\\main\\res\\layout-land\\fragment_commande.xml"
+    }
+]

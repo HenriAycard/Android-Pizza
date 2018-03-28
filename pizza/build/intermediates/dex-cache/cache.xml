@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\henri.aycard\.android\build-cache\aa69a0334054ff963610e7f2a319bc502e37996d\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="4961be1437163ab598620a3c907c0f3432936f51">
+        <dex dex="C:\Users\henri.aycard\Desktop\S4\Android\pizza\app\build\intermediates\pre-dexed\debug\classes_10dea9ae6ddd5ff708ef5e0e2cebc5463da17c7a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\henri.aycard\.android\build-cache\5060858559a02acb43b2bab7b4461d8b0925e017\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="a7a0aa678c3bbadb67fb41df9e107f7ee9087902">
+        <dex dex="C:\Users\henri.aycard\Desktop\S4\Android\pizza\app\build\intermediates\pre-dexed\debug\classes_b41ce09c2452176249dd479581ce2b8470b4cb6e.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\henri.aycard\Desktop\S4\Android\pizza\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="510aa6efc159983dfbffa676a0dae37568c0a46f">
+        <dex dex="C:\Users\henri.aycard\Desktop\S4\Android\pizza\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_24e4fd8a861514b689bc892b501c8d25e27788e9\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\henri.aycard\.android\build-cache\50bac7f8b225d2244d5d9545b3f5e3ad75a0a52b\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="a64026daf4819a589aea776f5deb19b257a104d1">
+        <dex dex="C:\Users\henri.aycard\Desktop\S4\Android\pizza\app\build\intermediates\pre-dexed\debug\classes_9770501d9e4f3d74da64c2c176f65c1c614ad215.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\henri.aycard\.android\build-cache\a6f3172987cf5fd441f2f1182acfffefd0415274\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="05e3d15c623cd98f0eb43c8249fb6151fae0786c">
+        <dex dex="C:\Users\henri.aycard\Desktop\S4\Android\pizza\app\build\intermediates\pre-dexed\debug\classes_1d60774f7ebc0ac899b0aa301ff481daa68db834.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\henri.aycard\.android\build-cache\0e41e9ab9420c32256f324308dd7d9c0e2bb22f2\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="e04f28ac2dd9bbe48ced6fc87fedf46c2586f5d6">
+        <dex dex="C:\Users\henri.aycard\Desktop\S4\Android\pizza\app\build\intermediates\pre-dexed\debug\classes_7e345f486029bbdebaa45e90f87f4ad51d23b1db.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\henri.aycard\.android\build-cache\38f72e5ba27663d9edc717cbac68e8a9e4d5010e\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="d29e451fd5bcc265989bf80afd4f149d95d72e7d">
+        <dex dex="C:\Users\henri.aycard\Desktop\S4\Android\pizza\app\build\intermediates\pre-dexed\debug\classes_863ab49b8df293623694f702a648b713d442c29b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\henri.aycard\.android\build-cache\eb0276369f47a05a310f3c977afde7fed23914c4\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="b77e50b3c31d0fc64148530f7077f79ec114b5b9">
+        <dex dex="C:\Users\henri.aycard\Desktop\S4\Android\pizza\app\build\intermediates\pre-dexed\debug\classes_ae7e5bf102b06e21479113029a3b5ead8e75317c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\henri.aycard\AppData\Local\Android\Sdk\extras\m2repository\com\android\support\constraint\constraint-layout-solver\1.0.2\constraint-layout-solver-1.0.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="C:\Users\henri.aycard\Desktop\S4\Android\pizza\app\build\intermediates\pre-dexed\debug\constraint-layout-solver-1.0.2_691abe17a9c5f4875591b2687416b33395d19018.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\henri.aycard\.gradle\caches\modules-2\files-2.1\com.android.support\support-annotations\25.4.0\f6a2fc748ae3769633dea050563e1613e93c135e\support-annotations-25.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="f6a2fc748ae3769633dea050563e1613e93c135e">
+        <dex dex="C:\Users\henri.aycard\Desktop\S4\Android\pizza\app\build\intermediates\pre-dexed\debug\support-annotations-25.4.0_0701e9bb4ec185078e93d750c4e145f33f32e856.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\henri.aycard\.android\build-cache\4a4c79c42b4b6ebac02241eb5de3f51d5a3bbce8\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="C:\Users\henri.aycard\Desktop\S4\Android\pizza\app\build\intermediates\pre-dexed\debug\classes_d6d4396e148ab277fdfe8e572558cc078eaf1f99.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\henri.aycard\Desktop\S4\Android\pizza\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="96f3b3f1ab5ca7ddf28ad5c1e2c05faaa3301a3a">
+        <dex dex="C:\Users\henri.aycard\Desktop\S4\Android\pizza\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_c5e1281301610108263e002eb976df0f064e583a\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\henri.aycard\.android\build-cache\b0b9dfc5f0233b591706eb60cde58d93e4828f27\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="c2deeac83ffa1304264bc755c2ddb84e7a7fa239">
+        <dex dex="C:\Users\henri.aycard\Desktop\S4\Android\pizza\app\build\intermediates\pre-dexed\debug\classes_33d8511f0797235f2fff98de8b9aff49d0774a58.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\henri.aycard\.android\build-cache\56b693d42d4b18f1c4cbdbff564e67f8d8926212\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\henri.aycard\Desktop\S4\Android\pizza\app\build\intermediates\pre-dexed\debug\classes_475f5b750316e66c3bd13940c61a4377c329464c.jar" />
+    </item>
+
+</items>
